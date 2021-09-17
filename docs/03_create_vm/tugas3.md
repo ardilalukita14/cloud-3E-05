@@ -44,3 +44,9 @@ Lalu buatlah laporan praktikumnya!
 
 10. Maka setelah kita klik <b>Open</b>,jika konfigurasi sudah tepat dilakukan, secara otomatis instance akan terkoneksi. Berikut tampilan yang menunjukkan bahwa instance telah berhasil terkoneksi. <br><br>
 ![Finish](img/finish.png) <br><br>
+
+11. Kemudian, setelah berhasil terkoneksi sekarang kita coba jalankan perintah <b>uname -a</b> seperti dibawah ini. Tujuannya untuk mengetahui informasi seputar versi kernel yang digunakan, tanggal dilakukan instalasi, dan jenis arsitektur sistem operasi. <br><br>
+![Perintah Linux](img/perintah_linux.png) <br><br>
+
+
+
