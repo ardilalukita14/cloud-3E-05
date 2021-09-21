@@ -14,7 +14,7 @@ Berikut ini adalah langkah - langkah melakukan instalasi PHP 7 :
 ![Screenshot Langkah-2](img/langkah2.png)
 
 3. Berikutnya, kita tambahkan test file PHP ke dalam instance kita dengan cara menjalankan perintah berikut. <br><br>
-![Screenshot Langkah-3](img/ilangkah3.png)
+![Screenshot Langkah-3](img/langkah3.png)
 
 4. Selanjutnya, kita tambahkan syntax berikut ke dalam file yang sudah berhasil dibuat, lalu kita save. <br><br>
 ![Screenshot Langkah-4](img/langkah4.png)
