@@ -254,7 +254,7 @@ membuat aplikasi live. Aplikasi langsung dapat dilihat oleh pengguna dengan kred
 ![Screenshot](img/TUGAS/Langkah66.png) 
 
 3.  Klik <b>OROCLE Visual Builder</b> untuk kembali <b>Visual Applications page</b>.<br> 
-4.  Klik <b>Live dan pilih <b>hrwebapp</b>. Aplikasi akan membuka tab browser baru.<br><br>
+4.  Klik <b>Live</b> dan pilih <b>hrwebapp</b>. Aplikasi akan membuka tab browser baru.<br><br>
 ![Screenshot](img/TUGAS/Langkah67.png) 
 
 5. Data akan secara otomatis terisi dengan data saat kita melakukan stage, tetapi jika ingin memulai aplikasi  dengan  database  yang  kosong  kita  bisa  memilih  Publish  application  with  a  clean database.<br><br>
