@@ -29,17 +29,17 @@ Untuk free tier mendapatkan gratis 10 GB Object Storage dan 10 GB archive storag
 
 5. Kemudian, Uploading  web  page. Pada bagian bawah dari Bucket Information terdapat box Object(upload semua file yang ada pada folder <b>colorFliper</b><br><br>
 ![Screenshot](img/Langkah7.png)<br>
-![Screenshot](img/Langkah8.png)<br>
-![Screenshot](img/Langkah9.png)
+![Screenshot](img/Tugas4.png)<br>
+![Screenshot](img/Tugas5.png)
 
 6. Setelah upload index.html file → Klik titik 3 pada sisi kiri file <b>index.html</b>.<br><br>
-![Screenshot](img/Langkah10.png)<br>
+![Screenshot](img/Tugas8.png)<br>
 
 7. Kemudian, kita pilih <b>View Object Detail</b> (Panel detail akan menunjukkan detail URL objek)<br><br>
-![Screenshot](img/Langkah11.png)
+![Screenshot](img/Tugas6.png)
 
 8. Kemudian pilih URL Path (URI) untuk membuka file.<br><br>
-![Screenshot](img/Langkah12.png)
+![Screenshot](img/Tugas7.png)
 
 9. Maka, jika file yang di upload berhasil tampilan pada halaman akan seperti pada gambar di bawah ini: <br><br>
 ![Screenshot](img/Langkah13.png)<br>
