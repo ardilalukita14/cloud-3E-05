@@ -42,4 +42,7 @@ Untuk free tier mendapatkan gratis 10 GB Object Storage dan 10 GB archive storag
 ![Screenshot](img/Tugas7.png)
 
 9. Maka, jika file yang di upload berhasil tampilan pada halaman akan seperti pada gambar di bawah ini: <br><br>
-![Screenshot](img/Tugas9.png)
+![Screenshot](img/Tugas9.png)<br>
+![Screenshot](img/Tugas10.png)<br>
+![Screenshot](img/Tugas11.png)<br>
+![Screenshot](img/Tugas12.png)
