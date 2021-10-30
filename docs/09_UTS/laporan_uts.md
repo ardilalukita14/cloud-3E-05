@@ -68,3 +68,12 @@ Untuk menambahkan gambar kita pilih block image, lalu saat proses penginputan ga
 ![Screenshot](img/langkah19.png)<br>
 ![Screenshot](img/langkah20.png)<br>
 ![Screenshot](img/langkah21.png)<br>
+
+#
+
+### Jika semua sudah selesai, kita coba publish postingan wordpress.<br><br>
+![Screenshot](img/langkah22.png)<br>
+
+## LINK WORDPRESS
+
+## -   [Link Postingan Wordpress](http://168.138.51.31/wordpress/index.php/2021/10/30/myfashion/)
