@@ -161,3 +161,6 @@ Disini terlihat masih kosong karena belum ada volume yang terbuat sebelumnya.
 9. Jalankan docker compose menggunakan perintah berikut ini.<br><br>
 ![Screenshot](img/langkah35.png)<br>
 ![Screenshot](img/langkah34.png)<br>
+
+10. Untuk mengetahui container yang sedang berjalan menggunakan docker compose bisa dilakukan menggunakan cara sebagai berikut.<br><br>
+![Screenshot](img/langkah36.png)<br>
