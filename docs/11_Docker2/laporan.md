@@ -154,3 +154,10 @@ Disini terlihat masih kosong karena belum ada volume yang terbuat sebelumnya.
 
 8. Jalankan docker compose menggunakan perintah berikut ini.<br><br>
 ![Screenshot](img/langkah32.png)<br>
+
+8. Selanjutnya buat folder data di bawah /opt agar data mysql tidak hilang ketika container dihapus.<br><br>
+![Screenshot](img/langkah33.png)<br>
+
+9. Jalankan docker compose menggunakan perintah berikut ini.<br><br>
+![Screenshot](img/langkah35.png)<br>
+![Screenshot](img/langkah34.png)<br>
