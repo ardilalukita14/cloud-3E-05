@@ -164,3 +164,6 @@ Disini terlihat masih kosong karena belum ada volume yang terbuat sebelumnya.
 
 10. Untuk mengetahui container yang sedang berjalan menggunakan docker compose bisa dilakukan menggunakan cara sebagai berikut.<br><br>
 ![Screenshot](img/langkah36.png)<br>
+
+#
+#
