@@ -36,44 +36,36 @@ and token.
 ![Screenshot](img/langkah8.png)<br>
 
 3. Buatlah repository pada GitHub kemudian push project tersebut ke dalam repository.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah9.png)<br>
-
 ![Screenshot](img/langkah7a.png)<br>
 
 ### 1.2. Menambahkan GitHub Workflow
 1. Pipeline  CI/CD  pada  GitHub  dibuat  dengan format  yaml  dan  diletakkan  pada  lokasi .github/workflows.  Buatlah  file  yaml  pada  lokasi  tersebut,  sebagai  ilustrasi  silahkan perhatikan filename berikut.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah11.png)<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah12.png)<br>
 
 2. Salin konfigurasi pipeline berikut.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah13.png)<br>
 
 3. Pada  pengaturan  pipeline,  terdapat  nilai  secrets  yang  diatur  melalui  pengaturan  pada 
 repository GitHub.<br>
 
 4. Buka alamat repository GitHub, dan masuk ke menu Settings -> Secrets.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah14.png)<br>
 
 5. Sebagai panduan, silahkan gunakan table berikut untuk pengisian secrets.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah15.png)<br>
 
 6. Lengkapi nilai semua secrets yang dibutuhkan. Kemudian push perubahan ke repository 
 GitHub.
 Berikut hasil konfigurasi nilai secrets :<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah27.png)<br>
 
 7. Perhatikan tab Actions pada halaman repository. Cek hasil proses deployment apakah terdapat kesalahan. Jika terjadi kesalahan, koreksi kembali nilai secrets yang dimasukkan.
@@ -130,33 +122,28 @@ New Access Token.<br>
 ![Screenshot](img/langkah22.png)<br>
 
 c. Masukkan GitHub Actions pada nama token, simpan nilai token yang telah didapatkan.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah23.png)<br>
 ![Screenshot](img/langkah24.png)<br>
 
 ### 2.3. Menambahkan GitHub Workflow
 
 1. a. Buat sebuah file dengan berkas yaml, pada lokasi .github/workflows/deploy.yml.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah25.png)<br>
 
 2. Unduh  konfigurasi  berkas  pada  tautan  https://github.com/dhanifudin/hello-react-
 docker/raw/master/.github/workflows/deploy.yml dan simpan pada lokasi tersebut.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah26.png)<br>
 
 3. Tambahkan nilai-nilai secrets yang terdapat pada GitHub Workflow tersebut. Untuk nilai 
 yang diawali prefix OCI_ dapat digunakan table sebelumnya sebagai referensi.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah27.png)<br>
 
 4. Perhatikan table berikut sebagai referensi untuk pengisian nilai secrets.<br>
-<br>
-
+    <br>
 ![Screenshot](img/langkah34.png)<br>
 ![Screenshot](img/langkah35.png)<br>
 
@@ -165,43 +152,40 @@ yang diawali prefix OCI_ dapat digunakan table sebelumnya sebagai referensi.<br>
 1. Buatlah  berkas  dengan  nama  Dockerfile.  Gunakan  tautan  berikut.
 https://github.com/dhanifudin/hello-react-docker/blob/master/Dockerfile  sebagai template.
 2. Pastikan penamaan berkas sudah sesuai.<br>
-<br>
-
-![Screenshot](img/langkah36.png)<br>
-![Screenshot](img/langkah37.png)<br>
+    <br>
+    ![Screenshot](img/langkah36.png)<br>
+    ![Screenshot](img/langkah37.png)<br>
 
 
 ### 2.5. Menyiapkan Docker Compose
 
 1. Buatlah berkas dengan nama docker-compose.yml.<br>
-<br>
-
-![Screenshot](img/langkah38.png)<br>
+    <br>
+    ![Screenshot](img/langkah38.png)<br>
 
 2. Gunakan  tautan  https://github.com/dhanifudin/hello-react-docker/blob/master/docker-
 compose.yml sebagai referensi untuk membuat docker-compose.yml. Jangan lupa untuk 
 mengubah nilai image sesuai dengan username docker hub.<br>
-<br>
-
-![Screenshot](img/langkah39.png)<br>
+        <br>
+    ![Screenshot](img/langkah39.png)<br>
 
 ### 2.6. Melakukan Deployment
 
-1. Setelah  berkas  deployment  dan  nilai  secrets  telah  selesai  diatur,  lakukan  push  ke repository.<br>
-<br>
+1. Setelah  berkas  deployment  dan  nilai  secrets  telah  selesai  diatur,  lakukan  push  ke repository.
+    <br><br>
 
-![Screenshot](img/langkah43.png)<br>
+    ![Screenshot](img/langkah43.png)<br>
 
 2. Amati log deployment pada tab Actions, dan pastikan proses menghasilkan tanda centang 
 hijau. Jika terjadi error, periksa kembali konfigurasi dan nilai secrets yang dimasukkan.<br><br>
 ![Screenshot](img/langkah40.png)<br>
 
 3. Setelah  proses  deployment  berhasil,  untuk  mendapatkan  nilai  IP  public  yang  dapat diakses silahkan masuk ke dashboard pada halaman Compute Instances.<br>
-<br>
+    <br>
 
-![Screenshot](img/langkah41.png)<br>
+    ![Screenshot](img/langkah41.png)<br>
 
 4. Pada hasil akhir, jika tidak terdapat kesalahan akan didapatkan halaman website seperti pada gambar berikut.<br>
-<br>
+    <br>
 
-![Screenshot](img/langkah42.png)<br>
+    ![Screenshot](img/langkah42.png)<br>
