@@ -28,11 +28,14 @@ Dikarenakan pada UTS kemarin sudah berhasil memanfaatkan VM, DB instance, dan ju
 5. Jika proses build sudah berhasil dilakukan, maka sekarang kita bisa coba cek daftar image yang berhasil tersimpan di dalam server oracle dengan menjalankan perintah berikut, disini kita menastikan juga bahwa docker image yang baru kita build berhasil tersimpan.<br><br>
 ![Screenshot](img/langkah4.png)<br>
 
-6. Sekarang kita bisa upload image yang telah kita buat ke dalam Docker. Namun, sebelumnya kita login terlebih dahulu dengan cara menjalankan perintah berikut.<br><br>
+6. Setelah itu, kita bisa coba running image yang berhasil kita build tersebut. Maka hasilnya akan seperti berikut.<br><br>
+![Screenshot](img/langkah8.png)<br>
+
+7. Sekarang kita bisa upload image yang telah kita buat ke dalam Docker. Namun, sebelumnya kita login terlebih dahulu dengan cara menjalankan perintah berikut.<br><br>
 ![Screenshot](img/langkah5.png)<br>
 
-7. Jika sudah berhasil login, selanjutnya kita bisa upload image yang telah kita buat menggunakan perintah di bawah ini.<br><br>
+8. Jika sudah berhasil login, selanjutnya kita bisa upload image yang telah kita buat menggunakan perintah di bawah ini.<br><br>
 ![Screenshot](img/langkah6.png)<br>
 
-8. Berikut tampilan yang menunjukkan bahwa image yang kita buat berhasil terupload di dalam repository Dockerhub.<br><br>
+9. Berikut tampilan yang menunjukkan bahwa image yang kita buat berhasil terupload di dalam repository Dockerhub.<br><br>
 ![Screenshot](img/langkah7.png)<br>
